@@ -39,4 +39,4 @@ For help or feedback, visit [https://gmassmailer.com](https://gmassmailer.com) o
 
 ---
 
-© 2024 GMassMailer. All rights reserved. 
+© 2025 GMassMailer. All rights reserved. 
